@@ -17,4 +17,4 @@ jobs:
         server: ftpupload.net
         username: ${{ secrets.ftp_username}}
         password: ${{ secrets.ftp_password }}
-        server-dir: /staging.ariefrivaldi.my.id/htdocs
+        server-dir: /staging.ariefrivaldi.my.id/htdocs/
